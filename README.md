@@ -1,4 +1,9 @@
 # LLM Technical Evaluation & SFT Benchmark Suite
+# LLM Technical Evaluation, Forensic Auditing & SFT Ground Truth Suite
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-abyalewt-181717?style=flat&logo=github)](https://github.com/abyalewt)
+[![Repository](https://img.shields.io/badge/Repo-llm--evaluation--sft--benchmarks-blue?style=flat&logo=git)](https://github.com/abyalewt/llm-evaluation-sft-benchmarks)
+![Domain](https://img.shields.io/badge/Domain-RLHF%20%26%20SFT%20Benchmarking-blueviolet?style=flat)
 
 This repository showcases production-grade model evaluations, forensic fact-checking audits, and Supervised Fine-Tuning (SFT) golden-reference data creation across technical domains (Full-Stack React/JS, PostgreSQL, and Engineering Literature).
 
